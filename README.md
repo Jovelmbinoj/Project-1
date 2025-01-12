@@ -3,8 +3,11 @@ Hii everyone,I'm Jovel M Binoj
 #project overview
 -----------------
 The House Price Prediction Model helps users estimate house price using machine learning models.
+
 =>Data preprocessing to clean and transform the datasset.
+
 =>Perform feature engineering to extract meaningful insights.
+
 =>model training and evaluation based on suitable algorithm.
 
 #Dataset
