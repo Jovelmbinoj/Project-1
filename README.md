@@ -19,9 +19,13 @@ The House Price Prediction Model helps users estimate house price using machine 
 #Data preprocessing 
 -------------------
 =>Cleaning the data.
+
 =>Handling missing value.
+
 =>Encoding categorical features.
+
 =>Collecting useful data.
+
 =>Removing outliers.
 
 #Data visualization
@@ -31,7 +35,9 @@ The House Price Prediction Model helps users estimate house price using machine 
 #Model creation
 --------------
 =>Apply algorithm to perform the model.
+
 =>Using alogrithm such as Lasso,DecisionTreeRegressor.
+
 =>Performing GridsearchCV used to increase model performance.
 
 #Price prediction
