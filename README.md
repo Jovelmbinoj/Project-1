@@ -11,7 +11,6 @@ The House Price Prediction Model helps users estimate house price using machine 
 --------
 =>Collecting dataset from Kaggle platform.
 
-
 =>Dataset include features like location,sqft,bhk.
 
 #Data preprocessing 
